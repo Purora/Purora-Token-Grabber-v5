@@ -1,0 +1,17 @@
+asyncio
+mss
+browserhistory
+pyautogui
+pynput
+pycaw
+pywin32
+psutil
+cryptography
+discord
+httpx
+requests
+pypiwin32
+wmi
+pycryptodome
+discord
+pillow
