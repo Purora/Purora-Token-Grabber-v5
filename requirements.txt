@@ -15,3 +15,4 @@ wmi
 pycryptodome
 discord
 pillow
+pycryptodome
