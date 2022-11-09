@@ -16,3 +16,4 @@ pycryptodome
 discord
 pillow
 pycryptodome
+#pip install -r requirements.txt in cmd
