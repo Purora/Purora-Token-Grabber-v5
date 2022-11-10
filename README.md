@@ -1,3 +1,4 @@
+YOU CAN LAUNCH THIS GRABBER BY CMD AND POWERSHELL (UNLIKE LUNA GRABBER BY SMUG)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040370456382943302/log-photo2.png)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040369851065176154/log-photo.png)
 # Purora-Token-Grabber
@@ -45,4 +46,4 @@ GPU🟢
 
 CPU🟢
 
-AND YOU CAN LAUNCH THIS GRABBER BY CMD AND POWERSHELL UNLIKE LUNA GRABBER BY SMUG
+
