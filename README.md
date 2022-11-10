@@ -1,3 +1,4 @@
+<https://cdn.discordapp.com/attachments/1028579212946321438/1040369590921871460/obraz.png>
 # Purora-Token-Grabber
 All Browsers Password Grabber Stealer Token Grabber All in one webhook stealer
 
