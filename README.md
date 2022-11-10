@@ -1,3 +1,4 @@
+![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040370456382943302/log-photo2.png)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040369851065176154/log-photo.png)
 # Purora-Token-Grabber
 All Browsers Password Grabber Stealer Token Grabber All in one webhook stealer
