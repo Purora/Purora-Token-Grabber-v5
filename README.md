@@ -2,7 +2,10 @@ YOU CAN LAUNCH THIS GRABBER BY CMD AND POWERSHELL (UNLIKE LUNA GRABBER BY SMUG)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040370456382943302/log-photo2.png)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040369851065176154/log-photo.png)
 
-style="color:orange;">NEW VERSION REDUCED CODE WEIGHT FROM 3MB to 0,3 MB !!!!</span>
+# NEW VERSION REDUCED CODE WEIGHT FROM 3MB to 0,3 MB !!!!
+
+
+
 # Purora-Token-Grabber
 All Browsers Password Grabber Stealer Token Grabber All in one webhook stealer
 
