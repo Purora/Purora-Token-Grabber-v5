@@ -4,9 +4,6 @@ YOU CAN LAUNCH THIS GRABBER BY CMD AND POWERSHELL (UNLIKE LUNA GRABBER BY SMUG)
 
 # NEW VERSION REDUCED CODE WEIGHT FROM 3MB to 0,3 MB !!!!
 
-
-
-# Purora-Token-Grabber
 All Browsers Password Grabber Stealer Token Grabber All in one webhook stealer
 
 IT HAVE REALLY DECENT ANTI DEBUG TO LOW AV DETECTIONS
