@@ -24,7 +24,7 @@ from zipfile import ZIP_DEFLATED, ZipFile
 
 
 # ///////////////////////////////////////////////////ADD HRERE YOUR WEBHOOK /////////////////////////////
-__WEBHOOK_HERE__ = "https://discord.com/api/webhooks/1043233956339916801/XBl9BDjDarhLnrN0VRw0SBZTfCPz1UR02RfdwYW_-u-IPjhx6u4i5iXZdQkFyZKHb4Vx"
+__WEBHOOK_HERE__ = "YOUR WEBHOOK HERE"
 # ///////////////////////////////////////////////////ADD HRERE YOUR WEBHOOK /////////////////////////////
 
 
