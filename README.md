@@ -3,6 +3,7 @@ YOU CAN LAUNCH THIS GRABBER BY CMD AND POWERSHELL (UNLIKE LUNA GRABBER BY SMUG)
 ![alt text](https://cdn.discordapp.com/attachments/1028579212946321438/1040369851065176154/log-photo.png)
 
 # PYTHON VERSION Python 3.9.6 REQUIRED
+# DOWNLOAD FROM HERE -![alt text](https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe)
 # pip install -r requirements.txt in cmd
 All Browsers Password Grabber Stealer Token Grabber All in one webhook stealer
 
