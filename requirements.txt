@@ -16,3 +16,4 @@ pycryptodome
 discord
 pillow
 pycryptodome
+marshal
