@@ -1,4 +1,3 @@
-# TO USER GRABBER JUST PUT YOUR WEBHOOK ON FIELD CALLED "YOUR WEBHOOK HERE"
 import base64
 import json
 import os
