@@ -22,12 +22,7 @@ from tempfile import gettempdir, mkdtemp
 from zipfile import ZIP_DEFLATED, ZipFile
 
 
-
-
 __HOOK__ = "YOUR WEBHOOK HERE"
-
-
-
 
 
 
